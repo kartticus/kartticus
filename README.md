@@ -1,3 +1,4 @@
 hello
+![20230825_200945](https://github.com/kartticus/kartticus/assets/100049393/8b18d3f1-545b-4c07-ba6a-8dbed2d8b57e)
 
-![negan}(https://i.pinimg.com/originals/88/8b/0d/888b0d420d5b7f6164fe84e4627bb301.gif)
+
