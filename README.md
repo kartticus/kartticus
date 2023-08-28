@@ -11,7 +11,7 @@
 I'm a secret agent hunting down user *@2bedamned* aka Michael. Searching and chasing for this rabid animal..beware. If you have any more information on this indiviual immediantly contact me.
 
 blahlahbalhabalabhabahalabahalabahhah wordssssss.............. boring boring boring yadadadadaad ............. zzzzzzzzzzzzzzzzzzzzz 
-meow
+
 ## _**THINGS I LIKE!**_ <img src="https://github.com/kartticus/kartticus/assets/100049393/6f2d4378-fddb-4d9e-a30f-04a397ad7cbe" width="30" height="">
 
 not you
