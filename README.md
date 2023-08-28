@@ -11,9 +11,8 @@ I'm a secret agent hunting down user *@2bedamned* aka Michael. Searching and cha
 [
 blahlahbalhabalabhabahalabahalabahhah wordssssss.............. boring boring boring yadadadadaad ............. zzzzzzzzzzzzzzzzzzzzz 
 
-<p align="center">
-    <img width="300" src="https://pa1.aminoapps.com/6864/3982dcc9af28152083724fbb95cd44c1c6560906r1-1500-643_hq.gif" alt="Cute Tumblr Dividers"/>
-</p>
+
+
 
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/129b291ffb6c022779078216c956f0e8/de2a0908f4f647a9-dd/s500x750/96d38b1a7b6ae055558fc946cec6a0b89741050e.gifv" alt="Pin by Zahkriin on FFVII | Final fantasy vii cloud, Zack fair, Final  fantasy art"/>
 
