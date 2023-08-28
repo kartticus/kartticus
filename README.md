@@ -3,9 +3,7 @@
     <img width="400" src="https://github.com/kartticus/kartticus/assets/100049393/32f21169-6382-49bd-83c3-cc65a36816f8" alt="scrap">
 </p>
 
-<img src="https://media.discordapp.net/attachments/780128819662028860/1145826554656604221/25703494-1319-4256-843f-5d2717107b6d.png?width=1025&amp;height=56" alt="Image"/>
-
-<img align="left" alt="Coding" width="500" src="https://github.com/kartticus/kartticus/assets/100049393/d4a26a91-ab8d-4e19-9fce-9b73260ace97">
+<img align="left" alt="Coding" width="400" src="https://github.com/kartticus/kartticus/assets/100049393/d4a26a91-ab8d-4e19-9fce-9b73260ace97">
 
 ## _**CRAZED BOY LIVING UNDERGROUND**_ <img src="https://github.com/kartticus/kartticus/assets/100049393/68cdfd94-54cb-4ab0-885b-f15e2b41fd92" width="35" height="">
 
@@ -16,7 +14,7 @@ boring boring boring yadadadadaad ............. zzzzzzzzzzzzzzzzzzzzz
 
 
 
-<img align="right" alt="Coding" width="500" src="https://64.media.tumblr.com/129b291ffb6c022779078216c956f0e8/de2a0908f4f647a9-dd/s500x750/96d38b1a7b6ae055558fc946cec6a0b89741050e.gifv" alt="Pin by Zahkriin on FFVII | Final fantasy vii cloud, Zack fair, Final  fantasy art"/>
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/129b291ffb6c022779078216c956f0e8/de2a0908f4f647a9-dd/s500x750/96d38b1a7b6ae055558fc946cec6a0b89741050e.gifv" alt="Pin by Zahkriin on FFVII | Final fantasy vii cloud, Zack fair, Final  fantasy art"/>
 
 ## _**THINGS I LIKE!**_ <img src="https://github.com/kartticus/kartticus/assets/100049393/6f2d4378-fddb-4d9e-a30f-04a397ad7cbe" width="20" height="">
 
