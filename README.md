@@ -4,4 +4,4 @@
 
 >crazed boy living underground 
 replace![spiral](https://cdn.discordapp.com/attachments/780128819662028860/1145576055944515644/image0.gif)
-<img src="https://cdn.discordapp.com/attachments/780128819662028860/"width="100" height="100">
+<img src="https://cdn.discordapp.com/attachments/780128819662028860/" width="100" height="100">
