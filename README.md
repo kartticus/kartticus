@@ -4,4 +4,4 @@
 
 >crazed boy living underground 
 
-<img src="https://cdn.discordapp.com/attachments/780128819662028860/" width="50" height="">
+<img src="https://cdn.discordapp.com/attachments/780128819662028860/1145576055944515644/image0.gif" width="50" height="">
