@@ -18,4 +18,4 @@ boring boring boring yadadadadaad ............. zzzzzzzzzzzzzzzzzzzzz
 
 ## _**THINGS I LIKE!**_ <img src="https://github.com/kartticus/kartticus/assets/100049393/6f2d4378-fddb-4d9e-a30f-04a397ad7cbe" width="20" height="">
 
-not you
+not you!
