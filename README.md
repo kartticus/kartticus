@@ -8,8 +8,6 @@
 
 ## _**'CRAZED BOY LIVING UNDERGROUND**_ <img src="https://github.com/kartticus/kartticus/assets/100049393/210842b7-8461-4c53-ba0a-6ec568ef84ec" width="24" height="">
 
-
-
 I'm a secret agent hunting down user *@2bdmned* aka Michael. Searching and chasing for this rabid animal..beware. If you have any more information on this indiviual immediantly contact me.
 
 blahlahbalhabalabhabahalabahalabahhah wordssssss.............. 
