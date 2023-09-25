@@ -17,6 +17,6 @@ boring boring boring yadadadadaad ............. zzzzzzzzzzzzzzzzzzzzz zzzzz
 
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/129b291ffb6c022779078216c956f0e8/de2a0908f4f647a9-dd/s500x750/96d38b1a7b6ae055558fc946cec6a0b89741050e.gifv" alt="Pin by Zahkriin on FFVII | Final fantasy vii cloud, Zack fair, Final  fantasy art"/>
 
-## _**THINGS I LIKE!**_ <img src="https://github.com/kartticus/kartticus/assets/100049393/6f2d4378-fddb-4d9e-a30f-04a397ad7cbe" width="20" height="">
+## _**STUFF I LIKE!**_ <img src="https://github.com/kartticus/kartticus/assets/100049393/6f2d4378-fddb-4d9e-a30f-04a397ad7cbe" width="20" height="">
 
 not you!
