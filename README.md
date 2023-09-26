@@ -1,6 +1,6 @@
 ---
 <p align="center">
-    <img width="400" src="https://github.com/kartticus/kartticus/assets/100049393/7dea2438-223c-4ce2-80f0-555937ae822e">
+    <img width="400" src="https://github.com/kartticus/kartticus/assets/100049393/2183377a-f15d-4f32-8515-eea4fbc856c6">
 </p>
 
 
