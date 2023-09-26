@@ -6,7 +6,7 @@
 
 <img align="left" alt="Coding" width="400" src="https://github.com/kartticus/kartticus/assets/100049393/3a0e726d-38c1-4d4f-9443-01c4563fe777">
 
-## _**'CRAZED BOY LIVING UNDERGROUND**_ <img src="https://github.com/kartticus/kartticus/assets/100049393/382330b1-d629-44a1-8bba-5778b9ca25d1" alt="Image" width="26" height="">
+## _**'CRAZED BOY LIVING UNDERGROUND**_ <img src="https://github.com/kartticus/kartticus/assets/100049393/44cd9675-7c96-4efd-90db-59ad48bf5e16" width="25" height="">
 
 I'm a secret agent hunting down user *@2bdmned* aka Michael. Searching and chasing for this rabid animal..beware. If you have any more information on this indiviual immediantly contact me.
 
@@ -24,4 +24,5 @@ zzzzzzzzzzzzzzzzzzzzzzzzzvcuarxytuygiubscyrtuvyiuaz\byvtsadyuxbz\njbvgasc\xvzhbj
 - males (depends)
 - <img src="https://github.com/kartticus/kartticus/assets/100049393/e30e3030-1a0f-42ba-9b6e-c337bf4b97b1" alt="Image" width="400" height="">
 
-## _**BLINKIES AND STAMPS (?)**_
+## _**BLINKIES IDFK (?)**_
+<img src="https://i.postimg.cc/dQZVKgyp/blinkies-Cafe-2-L.gif" alt="i miss my bentley"/>![image](https://github.com/kartticus/kartticus/assets/100049393/ee446384-cdec-4396-91ad-f504396514c8)
