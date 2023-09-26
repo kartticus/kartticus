@@ -22,3 +22,6 @@ zzzzzzzzzzzzzzzzzzzzzzzzzvcuarxytuygiubscyrtuvyiuaz\byvtsadyuxbz\njbvgasc\xvzhbj
 
 - not you!
 - males (depends)
+- <img src="https://github.com/kartticus/kartticus/assets/100049393/e30e3030-1a0f-42ba-9b6e-c337bf4b97b1" alt="Image" width="400" height="">
+
+## _**BLINKIES AND STAMPS (?)**_
