@@ -25,5 +25,5 @@ zzzzzzzzzzzzzzzzzzzzzzzzzvcuarxytuygiubscyrtuvyiuaz\byvtsadyuxbz\njbvgasc\xvzhbj
 - <img src="https://github.com/kartticus/kartticus/assets/100049393/e30e3030-1a0f-42ba-9b6e-c337bf4b97b1" alt="Image" width="400" height="">
 
 ## _**BLINKIES IDFK (?)**_
-<img width=200 src="https://i.postimg.cc/dQZVKgyp/blinkies-Cafe-2-L.gif" alt="i miss my bentley"/><img width=200 src="https://blinkies.cafe/b/display/0195-raven.gif" alt="Edgar Allan&#39;s Foe blinkie"/><img width=200 src="https://blinkies.cafe/b/display/0124-stars.gif" alt="stargazer blinkie"/><img width=200 src="https://blinkies.cafe/b/display/0210-werewolfmoonhowl.gif" alt="Awoooooooooooo blinkie"/>
+<img width=200 src="https://i.postimg.cc/dQZVKgyp/blinkies-Cafe-2-L.gif" alt="i miss my bentley"/><img width=200 src="https://blinkies.cafe/b/display/0124-stars.gif" alt="stargazer blinkie"/><img width=200 src="https://blinkies.cafe/b/display/0210-werewolfmoonhowl.gif" alt="Awoooooooooooo blinkie"/>
 
