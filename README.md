@@ -6,7 +6,7 @@
 
 <img align="left" alt="Coding" width="400" src="https://github.com/kartticus/kartticus/assets/100049393/3a0e726d-38c1-4d4f-9443-01c4563fe777">
 
-## _**'CRAZED BOY LIVING UNDERGROUND**_ <img src="https://media.discordapp.net/attachments/780128819662028860/1145756684111851712/FDC94500-6097-4ECC-8301-37EE020BD5C2.gif" alt="Image" width="45" height="">
+## _**'CRAZED BOY LIVING UNDERGROUND**_ <img src="https://github.com/kartticus/kartticus/assets/100049393/382330b1-d629-44a1-8bba-5778b9ca25d1" alt="Image" width="26" height="">
 
 I'm a secret agent hunting down user *@2bdmned* aka Michael. Searching and chasing for this rabid animal..beware. If you have any more information on this indiviual immediantly contact me.
 
