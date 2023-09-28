@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="400" src="https://64.media.tumblr.com/0f56b24d26002400a9150a8cadc43ef3/c1b3fdbb64486797-90/s400x600/59b57b52db983f17774902be95be42cfa40d1a92.gifv" alt="#goth from zeth&#39;s aesthetics">
+    <img width="350" src="https://64.media.tumblr.com/0f56b24d26002400a9150a8cadc43ef3/c1b3fdbb64486797-90/s400x600/59b57b52db983f17774902be95be42cfa40d1a92.gifv" alt="#goth from zeth&#39;s aesthetics">
 </p>
 
 ---
