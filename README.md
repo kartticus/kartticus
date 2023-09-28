@@ -10,7 +10,8 @@
 
 <img align="left" alt="Coding" width="400" src="https://github.com/kartticus/kartticus/assets/100049393/3a0e726d-38c1-4d4f-9443-01c4563fe777">
 
-## _**CRAZED BOY LIVING UNDERGROUND**_ <img src="https://github.com/kartticus/kartticus/assets/100049393/44cd9675-7c96-4efd-90db-59ad48bf5e16" width="25" height="">
+## _**CRAZED BOY LIVING UNDERGROUND**_ <img src="https://github.com/kartticus/kartticus/assets/100049393/406e338e-9ad3-4563-ba5b-8e06be1977ca" width="45" height="">
+
 
 I'm a secret agent hunting down user *@2bdmned* aka Michael. Searching and chasing for this rabid animal..beware. If you have any more information on this indiviual immediantly contact me.
 
