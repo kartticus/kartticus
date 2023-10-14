@@ -26,3 +26,7 @@ Make sure to pray on the downfall of Michael and stay awesome 💯💯
 <img width=200 src="https://64.media.tumblr.com/29e14d7e6f4e42c98fd0fb3b3bebf0f5/fc8007822dded29e-ff/s250x400/76ba26740774b88695494f404f51aaa7ba26f7c3.gifv" alt="#blinkies.cafe from moment of beauty?"/><img width=200 src="https://img1.picmix.com/output/stamp/normal/6/8/3/4/2464386_af47b.gif" alt="I heart pirates blinkie black and white - Free animated GIF"/>
 
 </p>
+
+<p align="center">
+    <img width=200 src="https://media.tenor.com/EI7KG4M1_T4AAAAi/pirate-dance.gif"/>
+</p>
