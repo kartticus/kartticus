@@ -16,7 +16,9 @@
 </p>
 
 <p align="center">
-Hi guys its kartticus slash kart wtv i don't care live laugh love.
+    filo boy kart
+    
+Hi guys its kartticus/kart wtv i don't care live laugh love.
 Make sure to pray on the downfall of Michael and stay awesome 💯💯
 
 ---
