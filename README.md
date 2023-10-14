@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-<img width="40" src="https://github.com/kartticus/kartticus/assets/100049393/5083d6c7-0379-4bd3-90de-47be11d3557f">
+<img width="40" src="https://github.com/kartticus/kartticus/assets/100049393/4f284e1a-59eb-4f35-8cbb-64b1cc25883c">
 </p>
 
 
