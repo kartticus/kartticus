@@ -5,6 +5,11 @@
 
 ---
 
+<p align="center">
+<img width="40" src="https://github.com/kartticus/kartticus/assets/100049393/5083d6c7-0379-4bd3-90de-47be11d3557f">
+</p>
+
+
 
 <p align="center">
 <img width="500" src="https://github.com/kartticus/kartticus/assets/100049393/bebffcf4-f435-4e42-aa94-e0286e79c7b2">
