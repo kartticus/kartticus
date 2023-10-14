@@ -10,16 +10,14 @@
 </p>
 
 
-
 <p align="center">
 <img width="500" src="https://github.com/kartticus/kartticus/assets/100049393/bebffcf4-f435-4e42-aa94-e0286e79c7b2">
 </p>
 
-<p align="center">
-    filo boy kart
-    
+<p align="center">    
 Hi guys its kartticus/kart wtv i don't care live laugh love.
 Make sure to pray on the downfall of Michael and stay awesome 💯💯
+</p>
 
 ---
 
