@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">    
-Hi guys its kartticus/kart wtv i don't care live laugh love.
+Hi guys its kartticus/kart i don't care live laugh love!!!!
 Make sure to pray on the downfall of Michael and stay awesome 💯💯
 </p>
 
