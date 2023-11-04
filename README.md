@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="400" src="https://github.com/kartticus/kartticus/assets/100049393/58212290-b1b3-4d1b-bff2-312803c99110"> <img width=100 src="https://media.discordapp.net/attachments/780128819662028860/1145756684111851712/FDC94500-6097-4ECC-8301-37EE020BD5C2.gif?ex=65524e90&amp;is=653fd990&amp;hm=2f509ab896733e5ffb43ddce757b3f8cfb7d2e3240b0dc50f3604ed8dd09f1ad&amp;=&amp;width=421&amp;height=419" alt="Image"/>
+    <img width="400" src="https://github.com/kartticus/kartticus/assets/100049393/58212290-b1b3-4d1b-bff2-312803c99110"> 
 
 </p>
 
