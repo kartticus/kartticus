@@ -16,6 +16,8 @@
 
 <p align="center">    
 Hi guys its kartticus/kart i don't care live laugh love!!!!
+</p>
+<p align="center">    
 Make sure to pray on the downfall of Michael and stay awesome 💯💯
 </p>
 
