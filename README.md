@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="400" src="https://github.com/kartticus/kartticus/assets/100049393/58212290-b1b3-4d1b-bff2-312803c99110"> <img width= 100 src="https://github.com/kartticus/kartticus/assets/100049393/95c3d419-f30d-49bd-a13a-0d7037f613c6"/>
+    <img width="400" src="https://github.com/kartticus/kartticus/assets/100049393/58212290-b1b3-4d1b-bff2-312803c99110"> 
 </p>
 
 
