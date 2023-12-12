@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">    
-Hi guys its kartticus/kart 
+Hello guys its kartticus/kart 
 </p>
 <p align="center">    
-boy or girl doesnt matta 🤙
+Im pretty friendly i think!
 </p>
 
 ---
