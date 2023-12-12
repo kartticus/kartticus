@@ -6,11 +6,14 @@
 
 ---
 
+<p align="center">    
+wip
+</p>
 
 <p align="center">
 <img width="200" src="">
 </p>
- wip
+ 
 <p align="center">    
 Hello guys its kartticus/kart 
 </p>
