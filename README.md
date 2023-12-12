@@ -8,9 +8,9 @@
 
 
 <p align="center">
-<img width="200" src="https://github.com/kartticus/kartticus/assets/100049393/08415068-c04f-43bb-8e5e-c8d2773d5d42">
+<img width="200" src="">
 </p>
-
+ wip
 <p align="center">    
 Hello guys its kartticus/kart 
 </p>
