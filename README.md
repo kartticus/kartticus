@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<img width="350" src="https://github.com/kartticus/kartticus/assets/100049393/f796435b-d233-4716-ba9e-3f5714ff7814)">
+<img width="350" src="https://github.com/kartticus/kartticus/assets/100049393/f796435b-d233-4716-ba9e-3f5714ff7814">
 </p>
 
 
