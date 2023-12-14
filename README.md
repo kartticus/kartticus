@@ -7,8 +7,9 @@
 
 
 <p align="center">
-<img width="350" src="https://im3.ezgif.com/tmp/ezgif-3-904eec24da.gif" alt="[webp-to-gif output image]">
+<img width="350" src="https://github.com/kartticus/kartticus/assets/100049393/f796435b-d233-4716-ba9e-3f5714ff7814)">
 </p>
+
 
 
  
