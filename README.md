@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<img width="350" src="https://im3.ezgif.com/tmp/ezgif-3-904eec24da.gif" alt="[crop output image]" alt="[webp-to-gif output image]">
+<img width="350" src="https://im3.ezgif.com/tmp/ezgif-3-904eec24da.gif" alt="[webp-to-gif output image]">
 </p>
 
 
