@@ -13,11 +13,12 @@
 
  
 <p align="center">    
-Hello guys its kartticus/kart 
+Hello guys its kartticus/kart !!!
 </p>
 <p align="center">    
-Im pretty friendly i think!
+Lock <img width=17 src="https://github.com/kartticus/kartticus/assets/100049393/0383ded6-2bd6-48b4-86fa-3213357dbc8d"> Load
 </p>
+
 
 ---
 
