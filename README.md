@@ -17,13 +17,12 @@
 Hello guys its kartticus/kart !!!
 </p>
 <p align="center">    
-Lock <img width=17 src="https://github.com/kartticus/kartticus/assets/100049393/0383ded6-2bd6-48b4-86fa-3213357dbc8d"> Load
+Punching <img width=17 src="https://github.com/kartticus/kartticus/assets/100049393/0383ded6-2bd6-48b4-86fa-3213357dbc8d"> killing my dear friend @2bdmned
 </p>
 
-
----
 
 <p align="center">    
-wip
+<img width=600 src="https://www.studio-aegis.com/uploads/1/0/3/8/10380626/001-divider-mid-red_orig.png">
 </p>
+
 
