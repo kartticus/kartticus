@@ -17,7 +17,7 @@
 Hello guys its kartticus/kart !!!
 </p>
 <p align="center">    
-Punching <img width=17 src="https://github.com/kartticus/kartticus/assets/100049393/0383ded6-2bd6-48b4-86fa-3213357dbc8d"> killing my dear friend @2bdmned
+Punching <img width=17 src="https://github.com/kartticus/kartticus/assets/100049393/0383ded6-2bd6-48b4-86fa-3213357dbc8d"> killing my friend @2bdmned
 </p>
 <p align="center">    
 🇵🇭
