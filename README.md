@@ -22,7 +22,7 @@ Punching <img width=17 src="https://github.com/kartticus/kartticus/assets/100049
 
 
 <p align="center">    
-<img width=600 src="https://www.studio-aegis.com/uploads/1/0/3/8/10380626/001-divider-mid-red_orig.png">
+<img width=600 src="https://github.com/kartticus/kartticus/assets/100049393/e49cf742-c45a-4657-ac5c-d7564b040d49">
 </p>
 
 
