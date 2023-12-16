@@ -22,13 +22,6 @@ Punching <img width=17 src="https://github.com/kartticus/kartticus/assets/100049
 
 
 <p align="center">    
-<img width=600 src="https://github.com/kartticus/kartticus/assets/100049393/e49cf742-c45a-4657-ac5c-d7564b040d49">
+<img width=600 src="https://64.media.tumblr.com/73831f4a79c0a4c4f0d71dcb72901176/d87495e6a85b372c-f2/s250x400/4944e86a7614439901ec79cf0f7e6fcae72ca642.gifv">
 </p>
 
-<p align="center">    
-Hi
-</p>
-
-<p align="center">
-<img width=200 src="https://media.discordapp.net/attachments/970396245971574874/1185393008435277956/Untitled102_20231215202710.png?ex=658f7244&amp;is=657cfd44&amp;hm=1dbc0971544ba67b5de73152da7488c5d3adb1204fdde94d05981922ef8ecd9f&amp;=&amp;format=webp&amp;quality=lossless&amp;width=419&amp;height=411" alt="Image"/>
-</p> 
