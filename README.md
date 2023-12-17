@@ -22,7 +22,7 @@ Punching <img width=17 src="https://github.com/kartticus/kartticus/assets/100049
 🇵🇭
 </p>
 
-
-
-
+<p align="center">    
+<img width=300 src="https://github.com/kartticus/kartticus/assets/100049393/d5cdf090-0e48-474b-b811-bf76cd93333e">
+</p>
 
