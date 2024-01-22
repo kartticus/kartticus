@@ -26,9 +26,5 @@ Punching <img width=17 src="https://github.com/kartticus/kartticus/assets/100049
 <img width=300 src="https://github.com/kartticus/kartticus/assets/100049393/d5cdf090-0e48-474b-b811-bf76cd93333e">
 </p>
 
-<p align="center">
-<img width=120 src="https://media.discordapp.net/attachments/804088738313011250/1186103832317534298/Metal-Gear--Metal-Gear-Gif-Solid-Snake-1428770.gif?ex=65920846&amp;is=657f9346&amp;hm=fad0c3355e3fbcd304c6704d9a381a3797a21cb2707f1914afa4e94c7d89c45e&amp;=" alt="Image"/> <img width=120 src="https://media.discordapp.net/attachments/804088738313011250/1186106451773624460/mJk04.gif?ex=65920ab6&amp;is=657f95b6&amp;hm=cde4868fb537c07506453854d9c8cadd68d837fe245d34b90f0d03c7b8f762a0&amp;=" alt="Image"/>
-</p>
-<p align="center">
-me and mikey in the real <img width=17 src="https://github.com/kartticus/kartticus/assets/100049393/389834d9-3cee-4dc8-a0ad-2d16d0f4f005">
+
 
