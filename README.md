@@ -1,4 +1,4 @@
 ---
 <p align="center">    
-<img width=200 src="https://github.com/kartticus/kartticus/assets/100049393/8c1c8287-882a-4dab-b88e-65b85b3e0d79">
+<img width=400 src="https://github.com/kartticus/kartticus/assets/100049393/7d21e629-bf23-4137-ab6f-80d925c0d53b">
 </p>
