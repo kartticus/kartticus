@@ -12,5 +12,5 @@
 </p>
 
 <p align="center">
-<img width=200 src="https://media1.tenor.com/m/esqbl4Jptu8AAAAd/fortnite-raiden-dance-raiden-fortnite.gif" alt="Fortnite Raiden Dance Raiden Fortnite GIF - Fortnite Raiden Dance Raiden Fortnite Fortnite Dance Emote GIFs"/>
+<img width=200 src="https://64.media.tumblr.com/c6edf1a0d593c95a79e2c017cbe9607f/ecd38cf95304104f-6d/s250x400/e7815826cc5406c14d6146d75223f28d5e3b4b09.gif"/>
 </p>
