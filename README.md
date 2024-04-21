@@ -17,12 +17,11 @@
 </p>
 
 <p align="center">
-<img width=100 src="https://github.com/kartticus/kartticus/assets/100049393/f5a6fba6-4357-43c2-bdbf-66465c05cee2"> <img width=100 src="https://64.media.tumblr.com/4310a8e108e8b5e0c0e75f2f0b119451/58c370afcaeb963c-e9/s100x200/98e56125589726932c16b9406807e6a35d4fbbe0.gifv">
+<img width=100 src="https://64.media.tumblr.com/ff1f3001851a89643bf20df92348bba9/ec61887032664220-63/s250x400/eb7d1db9f04383d6243629347e284354b2f6c336.gifv"> <img width=100 src="https://64.media.tumblr.com/4310a8e108e8b5e0c0e75f2f0b119451/58c370afcaeb963c-e9/s100x200/98e56125589726932c16b9406807e6a35d4fbbe0.gifv"> <img width=100 src="https://64.media.tumblr.com/d7a3d1531251eaa9c846b014186ce0da/ac4ceda43d25e75b-1b/s100x200/f75afd499c576fd445236ae311025c989c076234.gifv">
 </p>
 
 
 <p align="center">
 <img width=200 src="https://64.media.tumblr.com/c6edf1a0d593c95a79e2c017cbe9607f/ecd38cf95304104f-6d/s250x400/e7815826cc5406c14d6146d75223f28d5e3b4b09.gif"/>
 </p>
-
 
