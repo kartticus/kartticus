@@ -1,7 +1,7 @@
 ---
 
 <p align="center">    
-<img width=400 src="https://github.com/kartticus/kartticus/assets/100049393/ee74b853-1e4c-4c31-b49e-2f6ba32233aa">
+<img width=350 src="https://github.com/kartticus/kartticus/assets/100049393/ee74b853-1e4c-4c31-b49e-2f6ba32233aa">
 </p>
 
 <p align="center">    
