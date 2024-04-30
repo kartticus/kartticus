@@ -7,8 +7,9 @@
 
 
 <p align="center">
-<img width=180 src="https://github.com/kartticus/kartticus/assets/100049393/da4690c2-2621-4957-b22c-da159779c96f"" alt="image"/> <img width=180 src="https://github.com/kartticus/kartticus/assets/100049393/51690024-0246-4c5e-b01a-0452cc093308"/> <img width=180 src="https://64.media.tumblr.com/5b0ef7697e995cb9cdbc48c36b70a08a/3468d393c0aae127-96/s250x400/b611ef8b9b89ab941d261419b80d73c5c2d6eb35.gifv"/> <img width=180 src="https://64.media.tumblr.com/f015478727328d3a6aa71ae7ad3314ea/6f9e7505f82bc822-4c/s250x400/f73bd64e066b481d2b0a16161565dc9139023a98.gifv"/>
+<img width=180 src="https://github.com/kartticus/kartticus/assets/100049393/51690024-0246-4c5e-b01a-0452cc093308"/> <img width=180 src="https://github.com/kartticus/kartticus/assets/100049393/54e8c8a1-a4fb-416e-b76c-5e46ad561b73"/> <img width=180 src="https://64.media.tumblr.com/5b0ef7697e995cb9cdbc48c36b70a08a/3468d393c0aae127-96/s250x400/b611ef8b9b89ab941d261419b80d73c5c2d6eb35.gifv"/> <img width=180 src="https://64.media.tumblr.com/f015478727328d3a6aa71ae7ad3314ea/6f9e7505f82bc822-4c/s250x400/f73bd64e066b481d2b0a16161565dc9139023a98.gifv" alt="image"/>
 </p>
+
 
 <p align="center">
 <img width=180 src="https://64.media.tumblr.com/cd076c011948c7e4847449e94b75f96f/a364ac8eef42b0d9-43/s250x400/a3aebe832db873ddb856900bc32f69c200f897f4.gifv"/>  <img width=180 src="https://64.media.tumblr.com/52f45a5a5f0e288c8eacd17f3fdfed6d/89efc0c143c702a7-f5/s250x400/ea7fad2bc6f9ba1538ae804e7034eb3ffcda1da8.gifv"/> <img width=180 src="https://64.media.tumblr.com/b94ac342feabaf9a17622e93b9f85009/2e3bc9b1ab2687d6-b3/s500x750/a98422becc0cad7791853ef607f428b655a27e6a.gifv">
