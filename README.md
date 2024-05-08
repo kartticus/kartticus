@@ -26,7 +26,7 @@
 
 
 <p align="center">
-<img width=150 src="https://github.com/kartticus/kartticus/assets/100049393/c888687e-6fcd-4b8b-ae8e-ea0cae07543e"/>
+<img width=150 src="https://github.com/kartticus/kartticus/assets/100049393/8847c43b-e0bf-49ea-ac2b-0d0e55cf2c2b"/>
 </p>
 
 
