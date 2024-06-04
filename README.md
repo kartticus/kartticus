@@ -1,4 +1,7 @@
 ---
+<p align="center"> 
+<img width=20 src="https://github.com/kartticus/kartticus/assets/100049393/a8f970b1-61ac-4e08-86a2-b8a97940880d"/>
+</p> 
 
 <p align="center">    
 <img width=550 src="https://64.media.tumblr.com/1d45e28074b2019de255d6d5969cc1f0/096d65bcceda6992-24/s500x750/d8bf78e9a9d77b673a4c9d6bfacd526d4f47e79a.gifv" alt="#emo from the.marshall.blog"/>
