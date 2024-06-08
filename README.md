@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">    
-<img width=550 src="https://github.com/kartticus/kartticus/assets/100049393/c3fae8c4-25a5-42ba-a4e1-6b7f3db81332"/>
+<img width=550 src="https://64.media.tumblr.com/dd4f6a4c34ac627a07806e83416ed6a0/76719b57e0d15c43-69/s540x810/c2ae3f7bd864bd2d267a1b2403ce60e839081324.gifv"/>
 </p>
-
 
 
 
