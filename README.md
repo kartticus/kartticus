@@ -1,7 +1,11 @@
 ---
 
+<p align="center">  
+ <img width=300 src="https://github.com/kartticus/kartticus/assets/100049393/978132ef-3008-4139-b6e0-03b63727e892"/>
+</p>
+
 <p align="center">    
-<img width=550 src="https://64.media.tumblr.com/1d45e28074b2019de255d6d5969cc1f0/096d65bcceda6992-24/s500x750/d8bf78e9a9d77b673a4c9d6bfacd526d4f47e79a.gifv" alt="#emo from the.marshall.blog"/>
+<img width=550 src="https://64.media.tumblr.com/1d45e28074b2019de255d6d5969cc1f0/096d65bcceda6992-24/s500x750/d8bf78e9a9d77b673a4c9d6bfacd526d4f47e79a.gifv"/>
 </p>
 
 
