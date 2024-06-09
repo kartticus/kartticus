@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
- <img width=430 src="https://github.com/kartticus/kartticus/assets/100049393/2e632df0-4f40-493c-a4d4-1f4b18e82dd3"/>
+ <img width=500 src="https://github.com/kartticus/kartticus/assets/100049393/2e632df0-4f40-493c-a4d4-1f4b18e82dd3"/>
 </p>
 
 <p align="center">
