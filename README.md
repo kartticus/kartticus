@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+ <img width=430 src="https://github.com/kartticus/kartticus/assets/100049393/2e632df0-4f40-493c-a4d4-1f4b18e82dd3"/>
+</p>
+
+<p align="center">
 <img width=100 src="https://github.com/kartticus/kartticus/assets/100049393/39d9af3e-01e5-4c23-83a8-f7c5e03a1b83"> <img width=100 src="https://64.media.tumblr.com/4310a8e108e8b5e0c0e75f2f0b119451/58c370afcaeb963c-e9/s100x200/98e56125589726932c16b9406807e6a35d4fbbe0.gifv"> <img width=100 src="https://github.com/kartticus/kartticus/assets/100049393/d574ba3f-9666-49cd-913c-08885e1659df"> 
  <img src="https://64.media.tumblr.com/f83654e061f813973865b39bf1417a66/37b11d11deaa6616-9e/s100x200/b8b33645ac73f32fa028be6eca7c17c81524405f.gifv"/>  <img width=100 src="https://64.media.tumblr.com/d7a3d1531251eaa9c846b014186ce0da/ac4ceda43d25e75b-1b/s100x200/f75afd499c576fd445236ae311025c989c076234.gifv">
 
