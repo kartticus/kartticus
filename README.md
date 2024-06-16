@@ -3,6 +3,8 @@
 <img src="https://media.discordapp.net/attachments/804088738313011250/1252003803205734482/Untitled98_20240616214811.png?ex=6670a2e7&amp;is=666f5167&amp;hm=fd20ce1ad222a67104341fad71bca0235fcdf5a15fedae098099e88f8560982f&amp;=&amp;format=webp&amp;quality=lossless" alt="Image"/>
 <img src="https://media.discordapp.net/attachments/804088738313011250/1252003772838711376/Untitled98_20240616213738.png?ex=6670a2e0&amp;is=666f5160&amp;hm=ebcb1893e7f2a17c159bd18e1bbc9ba239acbadb4b6c1c9f9ad42860bb31e072&amp;=&amp;format=webp&amp;quality=lossless" alt="Image"/>
 <img src="https://media.discordapp.net/attachments/804088738313011250/1251989674239594496/Untitled98_20240616203805.png?ex=667095bf&amp;is=666f443f&amp;hm=1caa0866c8bb3a080784ca7557ed71647234fa5ce29a5433e776e763a3ab0c6b&amp;=&amp;format=webp&amp;quality=lossless" alt="Image"/> 
+<img src="https://media.discordapp.net/attachments/804088738313011250/1252008956587540572/ezgif-2-5c8b7438a8.gif?ex=6670a7b4&amp;is=666f5634&amp;hm=46bc7bcbea71935dc1faadb4ff8442e7c41ec7fc186243ea21502a0da1cae318&amp;=" alt="Image"/>  <img src="https://media.discordapp.net/attachments/804088738313011250/1252008912887091421/ezgif-2-089f0f4461.gif?ex=6670a7aa&amp;is=666f562a&amp;hm=489b369fa66854c5e5d2e9e2e9bb50e6c5952572a61154077132d57f2b3dbbbd&amp;=" alt="Image"/>
+
 
 
 <p align="center">  
