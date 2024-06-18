@@ -7,12 +7,15 @@
 
 
 
+<p align="center">
+ <img width=500 src="https://github.com/kartticus/kartticus/assets/100049393/2e632df0-4f40-493c-a4d4-1f4b18e82dd3"/>
+</p>
+
 <p align="center">  
  <img width=250 src="https://github.com/kartticus/kartticus/assets/100049393/978132ef-3008-4139-b6e0-03b63727e892"/>
 </p>
 
-<p align="center">  
- 
+
 
 <p align="center">
  <img width=500 src="https://github.com/kartticus/kartticus/assets/100049393/2e632df0-4f40-493c-a4d4-1f4b18e82dd3"/>
